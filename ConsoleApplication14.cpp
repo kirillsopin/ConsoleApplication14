@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    priority_queue<Ingredient> cooker; // черга з пріоритетом
+    priority_queue<Ingredient> cooker;
 
     while (true) {
         cout << "Enter what you want to do:\n";
